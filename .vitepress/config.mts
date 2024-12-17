@@ -24,7 +24,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'gitlab', link: '/' }
+      { icon: 'github', link: 'https://github.com/xiaoman1221' }
     ]
 
 

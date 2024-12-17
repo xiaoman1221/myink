@@ -9,10 +9,10 @@ hero:
   actions:
     - theme: brand
       text: 看看这个
-      link: /markdown-examples
+      link: /links
     - theme: alt
       text: 原神
-      link: /api-examples
+      link: https://ys.mihoyo.com/
 
 features:
   - title: 原神
