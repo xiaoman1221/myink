@@ -4,7 +4,6 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "小满の墨水瓶",
   description: "小满の墨水瓶",
-  base:"/",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
