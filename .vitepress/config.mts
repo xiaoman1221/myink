@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "牛逼的项目",
   description: "原神，启动！",
+  base:"/",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
