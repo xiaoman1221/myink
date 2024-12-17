@@ -2,24 +2,24 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "牛逼的项目",
-  description: "原神，启动！",
+  title: "小满の墨水瓶",
+  description: "小满の墨水瓶",
   base:"/",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '首页', link: '/' },
-      { text: '点击打开原神', link: 'https://ys.mihoyo.com/' },
-      { text: '友情链接', link: '/links'}
+      { text: '点击打开博客', link: 'https://www.manjiuqi.com/' },
+      { text: '关于我', link: '/about'}
     ],
 
     sidebar: [
       {
-        text: '牛逼的项目',
+        text: '小满の墨水瓶',
         items: [
           { text: '首页', link: '/' },
-          { text: '点击打开原神', link: 'https://ys.mihoyo.com/' },
-          { text: '友情链接', link: '/links'}
+          { text: '点击打开博客', link: 'https://www.manjiuqi.com/' },
+          { text: '关于我', link: '/about'}
         ]
       }
     ],

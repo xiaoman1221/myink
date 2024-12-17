@@ -3,25 +3,25 @@
 layout: home
 
 hero:
-  name: "Xiaoman Local Project"
-  text: "NP Blog，Bro"
-  tagline: It`s NB
+  name: "Xiaoman`s Ink"
+  text: "A demo Project"
+  tagline: Hello World
   actions:
     - theme: brand
       text: Look Here
-      link: /markdown-examples
+      link: /about
     - theme: alt
-      text: Genshin
-      link: /api-examples
+      text: MyBlog
+      link: https://www.manjiuqi.com/
 
 features:
-  - title: Genshin
-    details: Genshin is...
-  - title: RTAkland
-    details: NB
-  - title: xiaoman1221
-    details: Cool
-
+  - title: Love Games
+    details: Genshin Import,Strinova
+  - title: Language
+    details: PHP,Python
+  - title: School
+    details: IMEIC.CN
 ---
-## Hello World
-This A Demo Project
+
+## HelloWorld
+Just A Demo Project

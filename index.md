@@ -3,24 +3,24 @@
 layout: home
 
 hero:
-  name: "小满的本地项目"
-  text: "纳米博客，小子"
-  tagline: 最牛逼的一集
+  name: "小满の墨水瓶"
+  text: "酷酷发牢骚就行了"
+  tagline: 天上如是，地下依然
   actions:
     - theme: brand
       text: 看看这个
-      link: /links
+      link: /about
     - theme: alt
-      text: 原神
-      link: https://ys.mihoyo.com/
+      text: 博客
+      link: https://www.manjiuqi.com/
 
 features:
-  - title: 原神
-    details: 原神是一款……后面忘了
-  - title: RTAkland
-    details: NB
-  - title: 小满1221
-    details: 太几把帅了哥们
+  - title: 喜欢的游戏
+    details: 原神,卡拉比丘
+  - title: 目前会的语言
+    details: PHP,Python
+  - title: 所在学校
+    details: 内蒙古电子信息职业技术学院
 ---
 
 ## 你好世界
