@@ -8,15 +8,17 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '首页', link: '/' },
-      { text: '点击打开原神', link: 'https://ys.mihoyo.com/' }
+      { text: '点击打开原神', link: 'https://ys.mihoyo.com/' },
+      { text: '友情链接', link: '/links'}
     ],
 
     sidebar: [
       {
-        text: 'Examples',
+        text: '牛逼的项目',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: '首页', link: '/' },
+          { text: '点击打开原神', link: 'https://ys.mihoyo.com/' },
+          { text: '友情链接', link: '/links'}
         ]
       }
     ],
