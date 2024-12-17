@@ -16,7 +16,7 @@ hero:
 
 features:
   - title: Genshin
-    details: Genshin is....
+    details: Genshin is...
   - title: RTAkland
     details: NB
   - title: xiaoman1221
