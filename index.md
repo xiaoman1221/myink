@@ -4,8 +4,8 @@ layout: home
 
 hero:
   name: "小满の墨水瓶"
-  text: "酷酷发牢骚就行了"
-  tagline: 天上如是，地下依然
+  text: "只是一个大三的学生"
+  tagline: 天上如是，地下亦然
   actions:
     - theme: brand
       text: 看看这个
