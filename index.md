@@ -18,7 +18,7 @@ features:
   - title: 喜欢的游戏
     details: 原神,卡拉比丘
   - title: 目前会的语言
-    details: PHP,Python
+    details: PHP,Python,Kotlin,Golang
   - title: 所在学校
     details: 内蒙古电子信息职业技术学院
 ---

@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: Look Here
-      link: /about
+      link: /en/about
     - theme: alt
       text: MyBlog
       link: https://www.manjiuqi.com/
@@ -18,9 +18,9 @@ features:
   - title: Love Games
     details: Genshin Import,Strinova
   - title: Language
-    details: PHP,Python
+    details: PHP,Python,Kotlin,Golang
   - title: School
-    details: IMEIC.CN
+    details: imeic.cn
 ---
 
 ## HelloWorld
