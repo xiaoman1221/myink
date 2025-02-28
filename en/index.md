@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "Xiaoman`s Ink"
-  text: "A demo Project"
-  tagline: Hello World
+  name: "Xiaoman's Ink Bottle"
+  text: "This is my world, my everything."
+  tagline: As above, so below.
   actions:
     - theme: brand
       text: Look Here
@@ -23,5 +23,5 @@ features:
     details: imeic.cn
 ---
 
-## HelloWorld
-Just A Demo Project
+## Hello World
+This is my world, my everything.

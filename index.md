@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "小满の墨水瓶"
-  text: "只是一个大三的学生"
+  text: "这里是我的世界，我的全部"
   tagline: 天上如是，地下亦然
   actions:
     - theme: brand
@@ -17,7 +17,7 @@ hero:
 features:
   - title: 喜欢的游戏
     details: 原神,卡拉比丘
-  - title: 目前会的语言
+  - title: 技术栈
     details: PHP,Python,Kotlin,Golang
   - title: 所在学校
     details: 内蒙古电子信息职业技术学院
