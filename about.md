@@ -14,7 +14,7 @@ const members = [
     name: 'Jiuqi Man',
     title: '小满1221',
     links: [
-      { icon: 'github', link: 'https://github.com/xiaoman121' },
+      { icon: 'github', link: 'https://github.com/xiaoman1221' },
       { icon: 'twitter', link: 'https://twitter.com/xiaoman1221' },
       { icon: 'wordpress', link: 'https://www.manjiuqi.com/' },
     ]
