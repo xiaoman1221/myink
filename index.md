@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "小满の墨水瓶"
-  text: "这里是我的世界，我的全部"
+  text: "这里是我的世界\n我的全部"
   tagline: 天上如是，地下亦然
   actions:
     - theme: brand

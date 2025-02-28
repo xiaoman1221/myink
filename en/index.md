@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "Xiaoman's Ink Bottle"
-  text: "This is my world, my everything."
+  text: "This is my world\nmy everything."
   tagline: As above, so below.
   actions:
     - theme: brand
