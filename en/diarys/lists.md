@@ -1,8 +1,8 @@
-# 小满的墨水瓶🫙
-### 这里是小满的小家，是小满倾诉点
+# Xiaoman's Ink Bottle
+### This is my world,my everything.
 
-## 这里以后会写一些小满的小日记
 
-## 希望死之后也能瞑目
+## I will write some small diaries of xiaoman1221 here in the future
 
-# 天上如是，地下亦然
+
+# As above, so below.
