@@ -13,6 +13,9 @@ hero:
     - theme: alt
       text: MyBlog
       link: https://www.manjiuqi.com/
+    - theme: alt
+      text: My Diarys
+      link: /diarys/lists
 
 features:
   - title: Love Games
