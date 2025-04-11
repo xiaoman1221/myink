@@ -17,7 +17,7 @@ hero:
 features:
   - title: Love Games
     details: Genshin Import,Strinova
-  - title: Language
+  - title: Languages 
     details: PHP,Python,Kotlin,Golang
   - title: School
     details: imeic.cn
