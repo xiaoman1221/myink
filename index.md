@@ -13,6 +13,10 @@ hero:
     - theme: alt
       text: 博客
       link: https://www.manjiuqi.com/
+    - theme: alt
+      text: 日记本
+      link: /diarys/lists
+      
 
 features:
   - title: 喜欢的游戏
