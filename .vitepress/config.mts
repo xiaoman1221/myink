@@ -26,7 +26,8 @@ export default defineConfig({
             items: [
               {text: "首页", link: "/diarys/lists"},
               {text: "2025年4月11日",link:"/diarys/2025-04-11"},
-              {text: "2025年4月12日",link:"/diarys/2025-04-12"}
+              {text: "2025年4月12日",link:"/diarys/2025-04-12"},
+              {text: "2025年4月13日",link:"/diarys/2025-04-13"},
             ]
           },
         ]
