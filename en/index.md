@@ -15,7 +15,7 @@ hero:
       link: https://www.manjiuqi.com/
     - theme: alt
       text: My Diarys
-      link: /diarys/lists
+      link: https://diarys.xiaoman1221.ink/
 
 features:
   - title: Love Games

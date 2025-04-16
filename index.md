@@ -15,7 +15,7 @@ hero:
       link: https://www.manjiuqi.com/
     - theme: alt
       text: 日记本
-      link: /diarys/lists
+      link: https://diarys.yhdzz.cn/
       
 
 features:

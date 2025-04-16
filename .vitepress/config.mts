@@ -11,7 +11,7 @@ export default defineConfig({
       { text: '首页', link: '/' },
       { text: '点击打开博客', link: 'https://www.manjiuqi.com/' },
       { text: '关于我', link: '/about'},
-      { text: '日记',link:'/diarys/lists'}
+      { text: '日记',link:'https://diarys.yhdzz.cn/'}
     ],
     lastUpdated: true,
     sidebar: [
@@ -21,15 +21,7 @@ export default defineConfig({
           { text: '首页', link: '/' },
           { text: '点击打开博客', link: 'https://www.manjiuqi.com/' },
           { text: '关于我', link: '/about'},
-          {
-            text: "日记",
-            items: [
-              {text: "首页", link: "/diarys/lists"},
-              {text: "2025年4月11日",link:"/diarys/2025-04-11"},
-              {text: "2025年4月12日",link:"/diarys/2025-04-12"},
-              {text: "2025年4月13日",link:"/diarys/2025-04-13"},
-            ]
-          },
+          { text: "日记", link: 'https://diarys.yhdzz.cn/'},
         ]
       }
     ],
