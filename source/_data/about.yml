@@ -55,19 +55,19 @@
     selfInfoTips3: 现在职业
     selfInfoContent3: 学生
   personalities:
-    author_name: 执政官
-    personality_type: ESFJ-A
+    author_name: 调停者
+    personality_type: INFP-T
     photo_url: https://bu.dusays.com/2023/07/05/64a4c63495ac5.jpg
-    personality_img: https://npm.elemecdn.com/anzhiyu-blog@2.0.8/img/svg/ESFJ-A.svg
-    name_url: https://www.16personalities.com/ch/esfj-%E4%BA%BA%E6%A0%BC
+    personality_img: https://static.yhdzz.cn/imgs/MBTI/INFP-T.svg
+    name_url: https://www.16personalities.com/ch/infp-%E4%BA%BA%E6%A0%BC
   maxim:
     maxim_tips: 座右铭
     maxim_top: 天上如是，
     maxim_bottom: 地下亦然。
   buff:
     buff_tips: 特长
-    buff_top: 脑回路新奇的 酸菜鱼
-    buff_bottom: 二次元指数 MAX
+    buff_top: 平时玩玩游戏 看看番 玩玩新技术
+    buff_bottom: 技术宅拯救世界！
   game:
     game_tips: 爱好游戏
     game_title: 原神
