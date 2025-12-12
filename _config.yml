@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: Xiaoman`Ink
 subtitle: ''
 description: ''
 keywords:
-author: John Doe
-language: en
+author: 小满1221
+language: zh_CN
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://www.xiaoman1221.ink
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
