@@ -45,8 +45,8 @@
   map:
     title: 我现在住在
     StrengthenTitle: 中国，内蒙古，呼和浩特市
-    background: https://bu.dusays.com/2023/07/05/64a4c61cb20ef.jpg
-    backgroundDark: https://bu.dusays.com/2023/07/05/64a4c63495ac5.jpg
+    background: https://static.yhdzz.cn/imgs/xiaoman1221/xiaoman-location.png
+    backgroundDark: https://static.yhdzz.cn/imgs/xiaoman1221/xiaoman-location.png
   selfInfo:
     selfInfoTips1: 生于
     selfInfoContentYear: 2004
@@ -103,6 +103,6 @@
     music_bg: https://p2.music.126.net/Mrg1i7DwcwjWBvQPIMt_Mg==/79164837213438.jpg
     music_link: /music
   reward_list:
-    - name: 海阔蓝
-      amount: 8.8
+    - name: 暂无
+      amount: 0.0
       datatime: 2023-03-28
