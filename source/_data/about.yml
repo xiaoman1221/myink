@@ -3,30 +3,30 @@
   avatarImg: https://static.yhdzz.cn/imgs/xiaoman1221/512x512.png
   avatarSkills:
     left:
-      - 🤖️ 数码科技爱好者
-      - 🔍 分享与热心帮助
-      - 🏠 智能家居小能手
-      - 🔨 设计开发一条龙
+      - 数码科技爱好者
+      - 分享与热心帮助
+      - 运行维护小能手
+      - 部署运维一条龙
     right:
-      - 专修交互与设计 🤝
-      - 脚踏实地行动派 🏃
-      - 团队小组发动机 🧱
-      - 壮汉人狠话不多 💢
+      - 做自己爱做的事
+      - 莫名其妙开始的
+      - 团队合作不习惯
+      - 人丑话还很多的
   name: 满久琦
-  description: 是一名 运维工程师、学生、five开发者
+  description: 是一名 运维工程师、学生、废物开发
   aboutsiteTips:
-    tips: 追求
-    title1: 源于
-    title2: 热爱而去 感受
+    tips: 目标
+    title1: 源于生活
+    title2: 源于热爱而去 感受
     word:
       - 学习
       - 生活
       - 程序
       - 体验
-  helloAbout: Hello there!
+  helloAbout: 来自小满
   skillsTips:
     tips: 技能
-    title: 开启创造力
+    title: 让自己不断下沉的技能
   careers:
     tips: 生涯
     title: 无限进步
@@ -57,7 +57,7 @@
   personalities:
     author_name: 调停者
     personality_type: INFP-T
-    photo_url: https://bu.dusays.com/2023/07/05/64a4c63495ac5.jpg
+    photo_url: https://static.yhdzz.cn/imgs/114191838_p0.png
     personality_img: https://static.yhdzz.cn/imgs/MBTI/INFP-T.svg
     name_url: https://www.16personalities.com/ch/infp-%E4%BA%BA%E6%A0%BC
   maxim:
@@ -70,9 +70,9 @@
     buff_bottom: 技术宅拯救世界！
   game:
     game_tips: 爱好游戏
-    game_title: 原神
-    game_uid: "UID: 133233234"
-    game_bg: https://bu.dusays.com/2023/04/22/64433bf26e25d.webp
+    game_title: 《卡拉彼丘》
+    game_uid: "昵称: 小满1221"
+    game_bg: https://static.yhdzz.cn/imgs/114191838_p0.png
   comic:
     comic_tips: 爱好番剧
     comic_title: 追番
@@ -94,13 +94,13 @@
         cover: https://bu.dusays.com/2023/05/30/64760e38d651a.webp
   like:
     like_tips: 关注偏好
-    like_title: 数码科技
-    like_bg: https://bu.dusays.com/2022/12/06/638f5f05ce1f7.jpg
-    like_bottom: 手机、电脑软硬件
+    like_title: 科技，MMD
+    like_bg: https://static.yhdzz.cn/imgs/Alist_Bg_Dark.jpg
+    like_bottom: 手机、电脑软硬件，字幕组
   music:
     music_tips: 音乐偏好
-    music_title: 许嵩、民谣、华语流行
-    music_bg: https://p2.music.126.net/Mrg1i7DwcwjWBvQPIMt_Mg==/79164837213438.jpg
+    music_title: 纯音乐、草动、日语动漫
+    music_bg: https://p2.music.126.net/lSZhYUCM2ey41bLyUJflkA==/3304032444810198.jpg
     music_link: /music
   reward_list:
     - name: 暂无
