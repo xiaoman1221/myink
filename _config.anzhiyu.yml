@@ -13,18 +13,18 @@ menu:
      音乐馆: /music/ || anzhiyu-icon-music
      追番页: /bangumis/ || anzhiyu-icon-bilibili
      相册集: /album/ || anzhiyu-icon-images
-     小空调: /air-conditioner/ || anzhiyu-icon-fan
+     我的装备: /equipment/ || anzhiyu-icon-dice-d20
 
    关于:
      关于本人: /about/ || anzhiyu-icon-paper-plane
      闲言碎语: /essay/ || anzhiyu-icon-lightbulb
      随便逛逛: javascript:toRandomPost() || anzhiyu-icon-shoe-prints1
 
-# nav相关配置
+# nav 相关配置
 nav:
   enable: true
   travelling: true
-  clock: true
+  clock: false
   menu:
     - title: 网页
       item:
@@ -109,7 +109,7 @@ docsearch:
 
 # Local search
 local_search:
-  enable: false
+  enable: true
   preload: true
   CDN:
 
@@ -199,7 +199,7 @@ mainTone:
 
 # wordcount (字数统计)
 wordcount:
-  enable: false
+  enable: true
   post_wordcount: true
   min2read: true
   total_wordcount: true
@@ -428,102 +428,102 @@ footer:
     since: 2020
   custom_text:
   runtime:
-    enable: false
-    launch_time: 04/01/2021 00:00:00 # 网站上线时间
-    work_img: https://npm.elemecdn.com/anzhiyu-blog@2.0.4/img/badge/安知鱼-上班摸鱼中.svg
+    enable: true
+    launch_time: 11/21/2025 00:00:00 # 网站上线时间
+    work_img: https://jsdelivr.bangumi.ink/npm/anzhiyu-blog@2.0.4/img/badge/%E5%AE%89%E7%9F%A5%E9%B1%BC-%E4%B8%8A%E7%8F%AD%E6%91%B8%E9%B1%BC%E4%B8%AD.svg
     work_description: 距离月入25k也就还差一个大佬带我~
-    offduty_img: https://npm.elemecdn.com/anzhiyu-blog@2.0.4/img/badge/安知鱼-下班啦.svg
+    offduty_img: https://jsdelivr.bangumi.ink/npm/anzhiyu-blog@2.0.4/img/badge/%E5%AE%89%E7%9F%A5%E9%B1%BC-%E4%B8%8B%E7%8F%AD%E5%95%A6.svg
     offduty_description: 下班了就该开开心心的玩耍，嘿嘿~
   # 徽标部分配置项 https://shields.io/
   # https://img.shields.io/badge/CDN-jsDelivr-orange?style=flat&logo=jsDelivr
   bdageitem:
-    enable: false
+    enable: true
     list:
       - link: https://hexo.io/ #徽标指向网站链接
-        shields: https://npm.elemecdn.com/anzhiyu-blog@2.1.5/img/badge/Frame-Hexo.svg #徽标API
-        message: 博客框架为Hexo_v5.4.0 #徽标提示语
+        shields: https://jsdelivr.bangumi.ink/npm/anzhiyu-blog@2.1.5/img/badge/Frame-Hexo.svg #徽标API
+        message: 博客框架为Hexo #徽标提示语
       - link: https://hexo.anheyu.com/
-        shields: https://npm.elemecdn.com/anzhiyu-theme-static@1.0.9/img/Theme-AnZhiYu-2E67D3.svg
+        shields: https://jsdelivr.bangumi.ink/npm/anzhiyu-theme-static@1.0.9/img/Theme-AnZhiYu-2E67D3.svg
         message: 本站使用AnZhiYu主题
-      # - link: https://www.dogecloud.com/
-      #   shields: https://npm.elemecdn.com/anzhiyu-blog@2.2.0/img/badge/CDN-多吉云-3693F3.svg
-      #   message: 本站使用多吉云为静态资源提供CDN加速
-      # - link: https://github.com/
-      #   shields: https://npm.elemecdn.com/anzhiyu-blog@2.1.5/img/badge/Source-Github.svg
-      #   message: 本站项目由Github托管
+      - link: https://www.dogecloud.com/
+        shields: https://npm.elemecdn.com/anzhiyu-blog@2.2.0/img/badge/CDN-多吉云-3693F3.svg
+        message: 本站使用多吉云为静态资源提供CDN加速
+      - link: https://github.com/
+        shields: https://npm.elemecdn.com/anzhiyu-blog@2.1.5/img/badge/Source-Github.svg
+        message: 本站项目由Github托管
       - link: http://creativecommons.org/licenses/by-nc-sa/4.0/
         shields: https://npm.elemecdn.com/anzhiyu-blog@2.2.0/img/badge/Copyright-BY-NC-SA.svg
         message: 本站采用知识共享署名-非商业性使用-相同方式共享4.0国际许可协议进行许可
   socialBar:
-    enable: false
+    enable: true
     centerImg:
     left:
-      # - title: email
-      #   link: mailto:anzhiyu-c@qq.com
-      #   icon: anzhiyu-icon-envelope
-      # - title: 微博
-      #   link: https://weibo.com/u/6378063631
-      #   icon: anzhiyu-icon-weibo
-      # - title: facebook
-      #   link: https://www.facebook.com/profile.php?id=100092208016287&sk=about
-      #   icon: anzhiyu-icon-facebook1
-      # - title: RSS
-      #   link: atom.xml
-      #   icon: anzhiyu-icon-rss
+       - title: email
+         link: mailto:anzhiyu-c@qq.com
+         icon: anzhiyu-icon-envelope
+       - title: 微博
+         link: https://weibo.com/u/7731236696
+         icon: anzhiyu-icon-weibo
+       - title: facebook
+         link: https://www.facebook.com/profile.php?id=100092208016287&sk=about
+         icon: anzhiyu-icon-facebook1
+       - title: RSS
+         link: atom.xml
+         icon: anzhiyu-icon-rss
     right:
-      # - title: Github
-      #   link: https://github.com/anzhiyu-c
-      #   icon: anzhiyu-icon-github
-      # - title: Bilibili
-      #   link: https://space.bilibili.com/372204786
-      #   icon: anzhiyu-icon-bilibili
-      # - title: 抖音
-      #   link: https://v.douyin.com/DwCpMEy/
-      #   icon: anzhiyu-icon-tiktok
-      # - title: CC
-      #   link: /copyright
-      #   icon: anzhiyu-icon-copyright-line
+       - title: Github
+         link: https://github.com/anzhiyu-c
+         icon: anzhiyu-icon-github
+       - title: Bilibili
+         link: https://space.bilibili.com/372204786
+         icon: anzhiyu-icon-bilibili
+       - title: 抖音
+         link: https://v.douyin.com/DwCpMEy/
+         icon: anzhiyu-icon-tiktok
+       - title: CC
+         link: /copyright
+         icon: anzhiyu-icon-copyright-line
   list:
-    enable: false
+    enable: true
     randomFriends: 3
     project:
-      # - title: 服务
-      #   links:
-      #     - title: 51la统计
-      #       link: https://v6.51.la/
-      #     - title: 十年之约
-      #       link: https://www.foreverblog.cn/
-      #     - title: 开往
-      #       link: https://github.com/travellings-link/travellings
-      # - title: 主题
-      #   links:
-      #     - title: 文档
-      #       link: /docs/
-      #     - title: 源码
-      #       link: https://github.com/anzhiyu-c/hexo-theme-anzhiyu
-      #     - title: 更新日志
-      #       link: /update/
-      # - title: 导航
-      #   links:
-      #     - title: 即刻短文
-      #       link: /essay/
-      #     - title: 友链文章
-      #       link: /fcircle/
-      #     - title: 留言板
-      #       link: /comments/
-      # - title: 协议
-      #   links:
-      #     - title: 隐私协议
-      #       link: /privacy/
-      #     - title: Cookies
-      #       link: /cookies/
-      #     - title: 版权协议
-      #       link: /copyright/
+       - title: 服务
+         links:
+           - title: 51la统计
+             link: https://v6.51.la/
+           - title: 十年之约
+             link: https://www.foreverblog.cn/
+           - title: 开往
+             link: https://github.com/travellings-link/travellings
+       - title: 主题
+         links:
+           - title: 文档
+             link: /docs/
+           - title: 源码
+             link: https://github.com/anzhiyu-c/hexo-theme-anzhiyu
+           - title: 更新日志
+             link: /update/
+       - title: 导航
+         links:
+           - title: 即刻短文
+             link: /essay/
+           - title: 友链文章
+             link: /fcircle/
+           - title: 留言板
+             link: /comments/
+       - title: 协议
+         links:
+           - title: 隐私协议
+             link: /privacy/
+           - title: Cookies
+             link: /cookies/
+           - title: 版权协议
+             link: /copyright/
   footerBar:
     enable: true
     authorLink: /
     cc:
-      enable: false
+      enable: true
       link: /copyright
     linkList:
       - link: https://github.com/anzhiyu-c/hexo-theme-anzhiyu
@@ -533,7 +533,7 @@ footer:
       # - link: https://beian.miit.gov.cn/
       #   text: 湘ICP备-xxxxxxx号
     subTitle:
-      enable: false
+      enable: true
       # Typewriter Effect (打字效果)
       effect: true
       # Effect Speed Options (打字效果速度参数)
@@ -689,7 +689,7 @@ canvas_fluttering_ribbon:
 # canvas_nest
 # https://github.com/hustcc/canvas-nest.js
 canvas_nest:
-  enable: false
+  enable: true
   color: "0,0,255" #color of lines, default: '0,0,0'; RGB values: (R,G,B).(note: use ',' to separate.)
   opacity: 0.7 # the opacity of line (0~1), default: 0.5.
   zIndex: -1 # z-index property of the background, default: -1.

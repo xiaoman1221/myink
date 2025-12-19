@@ -16,8 +16,8 @@
   description: 是一名 运维工程师、学生、废物开发
   aboutsiteTips:
     tips: 目标
-    title1: 源于生活
-    title2: 源于热爱而去 感受
+    title1: 源于
+    title2: 生活而去
     word:
       - 学习
       - 生活
@@ -31,13 +31,9 @@
     tips: 生涯
     title: 无限进步
     list:
-      - desc: EDU,软件工程专业
-        color: "#357ef5"
-      - desc: EDU,软件工程专业
-        color: "#357ef5"
-      - desc: EDU,软件工程专业
-        color: "#357ef5"
-    img: https://bu.dusays.com/2023/04/21/644287166329b.png
+      - desc:  BRICS
+        color: "#ffffff"
+    img: https://static.yhdzz.cn/imgs/xiaoman1221/brics.JPEG
   statistic:
     link: /archives
     text: 文章隧道
@@ -77,21 +73,24 @@
     comic_tips: 爱好番剧
     comic_title: 追番
     comic_list:
-      - name: 约定的梦幻岛
-        href: https://www.bilibili.com/bangumi/media/md5267750/?spm_id_from=666.25.b_6d656469615f6d6f64756c65.1
-        cover: https://bu.dusays.com/2023/05/27/647166c44b414.webp
-      - name: 咒术回战
-        href: https://www.bilibili.com/bangumi/media/md28229899/?spm_id_from=666.25.b_6d656469615f6d6f64756c65.1
-        cover: https://bu.dusays.com/2023/05/24/646db4398832e.webp
-      - name: 紫罗兰永恒花园
-        href: https://www.bilibili.com/bangumi/media/md8892/?spm_id_from=666.25.b_6d656469615f6d6f64756c65.1
-        cover: https://bu.dusays.com/2023/05/24/646db43983d99.webp
-      - name: 鬼灭之刃
-        href: https://www.bilibili.com/bangumi/media/md22718131/?spm_id_from=666.25.b_6d656469615f6d6f64756c65.1
-        cover: https://bu.dusays.com/2023/05/24/646db439856a0.webp
-      - name: JOJO的奇妙冒险 黄金之风
-        href: https://www.bilibili.com/bangumi/media/md135652/?spm_id_from=666.25.b_6d656469615f6d6f64756c65.1
-        cover: https://bu.dusays.com/2023/05/30/64760e38d651a.webp
+      - name: 游戏人生
+        href: https://bgm.tv/subject/79227
+        cover: https://lain.bgm.tv/pic/cover/l/54/bd/79227_052R3.jpg
+      - name: 樱花庄的宠物女孩
+        href: https://bgm.tv/subject/41488
+        cover: https://lain.bgm.tv/pic/cover/l/01/a2/41488_qw09G.jpg
+      - name: 碧蓝之海
+        href: https://bgm.tv/subject/235130
+        cover: https://lain.bgm.tv/pic/cover/l/1f/13/235130_suy3s.jpg
+      - name: 别当欧尼酱了！
+        href: https://bgm.tv/subject/378862
+        cover: https://lain.bgm.tv/pic/cover/l/7e/ca/378862_24TnR.jpg
+      - name: 更衣人偶坠入爱河
+        href: https://bgm.tv/subject/333158
+        cover: https://lain.bgm.tv/pic/cover/l/9c/4d/333158_PA0F4.jpg
+      - name: 孤独摇滚！
+        href: https://bgm.tv/subject/328609
+        cover: https://lain.bgm.tv/pic/cover/l/e2/e7/328609_2EHLJ.jpg
   like:
     like_tips: 关注偏好
     like_title: 科技，MMD
